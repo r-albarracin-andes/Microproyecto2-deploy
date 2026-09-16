@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+*.ipynb_checkpoints/
+Entregable2.ipynb
+Entregable2.html
+scratch/
+*.bak
+*.bak*
+data/

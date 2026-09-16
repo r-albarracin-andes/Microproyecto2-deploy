@@ -1,0 +1,14 @@
+.gcloudignore
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+Entregable2.ipynb
+Entregable2.html
+scratch/
+*.bak
+*.bak*
+data/
